@@ -13,15 +13,15 @@ The search engine allows users to enter search queries and retrieves relevant ne
 
 2. Install the required dependencies:
 
-    ```pip install -r requirements.txt```
+    ```pip install -r requirements.txt
 
 3. Run the application:
 
-    ```streamlit run app.py```
+    ```streamlit run app.py
 
 4. Due to the large nature of some files they are stored in Google drive, these include the Preprocessed_data.csv file and the faiss_index.pickle file
 
-     ```https://drive.google.com/drive/folders/1kDJMznqA5sXjDIepxBdugdav3bAMayPX?usp=sharing```
+     ```https://drive.google.com/drive/folders/1kDJMznqA5sXjDIepxBdugdav3bAMayPX?usp=sharing
 
 Download the files and place the faiss_index.pickle file in the models folder, and the data file into the Data folder
 
